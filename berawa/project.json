@@ -1,0 +1,69 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-palacio-de-santa-ines-granada",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T15:30:00+01:00",
+ "updated_at": "2026-10-29T15:38:00+01:00",
+ "business": {
+  "name": "Hotel Palacio de Santa Inés",
+  "legal_name": "Instituto Andaluz de Ocio y Hostelería, S.L.",
+  "registry_ids": [
+   "CIF B18641563",
+   "Registro Mercantil de Granada, hoja GR-21928"
+  ],
+  "url": "https://www.palaciosantaines.es/",
+  "domain": "palaciosantaines.es",
+  "municipality": "Granada",
+  "province": "Granada",
+  "address": "Cuesta de Santa Inés, 9 · 18010 Granada",
+  "phones": [
+   "+34 958 22 23 62"
+  ],
+  "emails": [
+   "reservas@palaciosantaines.es"
+  ],
+  "sector": "hotel en dos edificios mudéjares del siglo XVI en el Albayzín (Granada)"
+ },
+ "rating": {
+  "value": 4.6,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Palacio+de+Santa+Ines,+siglo+XVI/@37.1783259,-3.5939066,17z/data=!4m9!3m8!1s0xd71fcb87e0e7605:0x6a3b9943705ba645!5m2!4m1!1i2!8m2!3d37.1783259!4d-3.5939066!16s%2Fg%2F1tffl3nt",
+  "date": "2026-10-29T11:04:11+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://www.palaciosantaines.es/bookingstep1/",
+   "ca": "https://www.palaciosantaines.es/bookingstep1/",
+   "en": "https://www.palaciosantaines.es/en/bookingstep1/",
+   "fr": "https://www.palaciosantaines.es/fr/bookingstep1/"
+  },
+  "note": "Las reservas van al motor de reservas del propio hotel (palaciosantaines.es/bookingstep1, pagina del propio dominio que carga el componente de tarifas de Mirai del hotel, data-mirai-id 58804861; versiones /en/ y /fr/); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.palaciosantaines.es/",
+  "date": "2026-10-29T15:24:56+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
