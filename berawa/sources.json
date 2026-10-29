@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.palaciosantaines.es/",
+ "read_at": "2026-10-29T15:30:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.palaciosantaines.es/",
+   "sha256": "8267b4964abdcf87eef5cdbb218bae0afc19b796b513171b4bd5810d4cc29bd5",
+   "chars": 5608
+  },
+  {
+   "url": "https://www.palaciosantaines.es/aviso-legal/",
+   "sha256": "019bfed9195a31372c77063244a22a73b596b50e7a581b8b9bffe747c96c0302",
+   "chars": 11092
+  },
+  {
+   "url": "https://www.palaciosantaines.es/contactos/",
+   "sha256": "e2d463df9a952f3daa4367e21f108272e981f447cf2dde361afad20e95eb0dba",
+   "chars": 2472
+  },
+  {
+   "url": "https://www.palaciosantaines.es/eventos-y-reuniones/",
+   "sha256": "3bbc75a14672f3192cf7bf8b1b37ab40ce12838e9391ec115767d3a17f52eec0",
+   "chars": 3284
+  },
+  {
+   "url": "https://www.palaciosantaines.es/habitaciones/",
+   "sha256": "f9f857e82182f543d341bf86e1f344a60c5f202aad628d7c6d072b835e49680a",
+   "chars": 3786
+  },
+  {
+   "url": "https://www.palaciosantaines.es/servicios/",
+   "sha256": "fd7a5ec4991d991f3982ea21e8532527716f578a6f3f4ede87a9ab5f58ee390f",
+   "chars": 3365
+  },
+  {
+   "url": "https://www.palaciosantaines.es/situacion/",
+   "sha256": "a944b7fd8214057f7d758785d22273bb137956080901072c0cac82718c164a48",
+   "chars": 3189
+  }
+ ],
+ "other_pages_read": [
+  "https://www.palaciosantaines.es",
+  "https://www.palaciosantaines.es/en/",
+  "https://www.palaciosantaines.es/en/contact/",
+  "https://www.palaciosantaines.es/en/feel-safe/",
+  "https://www.palaciosantaines.es/en/gallery/",
+  "https://www.palaciosantaines.es/en/offers/",
+  "https://www.palaciosantaines.es/en/rooms/",
+  "https://www.palaciosantaines.es/en/services/",
+  "https://www.palaciosantaines.es/en/tourism/",
+  "https://www.palaciosantaines.es/feel-safe/",
+  "https://www.palaciosantaines.es/fr/",
+  "https://www.palaciosantaines.es/galeria/",
+  "https://www.palaciosantaines.es/ofertas/",
+  "https://www.palaciosantaines.es/ofertas/enamorate-en-granada-5624z2/",
+  "https://www.palaciosantaines.es/ofertas/especial-noviembre-y-diciembre-3bx2k1/",
+  "https://www.palaciosantaines.es/politica-cookies/",
+  "https://www.palaciosantaines.es/politica-privacidad/",
+  "https://www.palaciosantaines.es/turismo/"
+ ]
+}

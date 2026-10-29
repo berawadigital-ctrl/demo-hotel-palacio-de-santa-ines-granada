@@ -1,0 +1,588 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-palacio-de-santa-ines-granada",
+ "source_site": "https://www.palaciosantaines.es/",
+ "source_read_at": "2026-10-29T15:30:00+01:00",
+ "note": "Respuestas solo con datos publicados en palaciosantaines.es, sin precios. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "habitaciones tiene",
+     "suite"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio",
+     "habitacions te",
+     "suite"
+    ],
+    "en": [
+     "what rooms",
+     "room types",
+     "rooms does",
+     "suite"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "suite"
+    ]
+   },
+   "a": {
+    "es": "Tiene Doble de uso individual, Doble estándar, Doble con vistas a la Alhambra, Triple (dúplex con altillo de madera), Familiar (en dos plantas) y Suite, con artesonado mudéjar original y bañera de hidromasaje.",
+    "ca": "Té Doble d'ús individual, Doble estàndard, Doble amb vistes a l'Alhambra, Triple (dúplex amb altell de fusta), Familiar (en dues plantes) i Suite, amb enteixinat mudèjar original i banyera d'hidromassatge.",
+    "en": "It has Double for single use, Standard double, Double with Alhambra views, Triple (duplex with a wooden mezzanine), Family (on two levels) and Suite, with an original Mudéjar coffered ceiling and hydromassage bath.",
+    "fr": "Il propose Double à usage individuel, Double standard, Double avec vue sur l'Alhambra, Triple (duplex avec mezzanine en bois), Familiale (sur deux niveaux) et Suite, avec plafond mudéjar d'origine et baignoire hydromassante."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/habitaciones/",
+     "quote": "Doble Uso Individual"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/habitaciones/",
+     "quote": "Doble Estándar"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/habitaciones/",
+     "quote": "Doble con Vistas a La Alhambra"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/habitaciones/",
+     "quote": "Habitaciones tipo Duplex, con capacidad para tres personas"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/habitaciones/",
+     "quote": "Su artesonado múdejar original y la amplitud de la habitación hacen que nuestra suite sea ideal"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "vistas",
+   "keys": {
+    "es": [
+     "vista",
+     "alhambra",
+     "ventana"
+    ],
+    "ca": [
+     "vist",
+     "alhambra",
+     "finestra"
+    ],
+    "en": [
+     "view",
+     "alhambra",
+     "window"
+    ],
+    "fr": [
+     "vue",
+     "alhambra",
+     "fenetre"
+    ]
+   },
+   "a": {
+    "es": "Sí, la Doble con vistas a la Alhambra está en el tercer piso y tiene dos ventanas con vistas al Albayzín y a la Alhambra.",
+    "ca": "Sí, la Doble amb vistes a l'Alhambra és al tercer pis i té dues finestres amb vistes a l'Albayzín i a l'Alhambra.",
+    "en": "Yes, the Double with Alhambra views is on the third floor and has two windows overlooking the Albayzín and the Alhambra.",
+    "fr": "Oui, la Double avec vue sur l'Alhambra est au troisième étage et a deux fenêtres donnant sur l'Albayzín et l'Alhambra."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/habitaciones/",
+     "quote": "Esta habitación está situada en el 3.er Piso. Cuenta con cama de matrimonio, techo de madera y dos ventanas con maravillosas vistas al Albayzín y a la Alhambra."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "familia",
+     "familiar",
+     "tres",
+     "triple",
+     "niños"
+    ],
+    "ca": [
+     "famil",
+     "tres",
+     "triple",
+     "nens"
+    ],
+    "en": [
+     "family",
+     "three",
+     "triple",
+     "children",
+     "kids"
+    ],
+    "fr": [
+     "famille",
+     "familiale",
+     "trois",
+     "triple",
+     "enfants"
+    ]
+   },
+   "a": {
+    "es": "Sí: la Triple es un dúplex para tres personas con altillo de madera y la Familiar tiene baño privado y estancia en dos plantas.",
+    "ca": "Sí: la Triple és un dúplex per a tres persones amb altell de fusta i la Familiar té bany privat i estada en dues plantes.",
+    "en": "Yes: the Triple is a duplex for three people with a wooden mezzanine, and the Family room has a private bathroom and two levels.",
+    "fr": "Oui : la Triple est un duplex pour trois personnes avec mezzanine en bois, et la Familiale a une salle de bain privée et deux niveaux."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/habitaciones/",
+     "quote": "Habitaciones tipo Duplex, con capacidad para tres personas"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/habitaciones/",
+     "quote": "equipada con baño privado, estancia en dos plantas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "albayzin",
+     "albaicin"
+    ],
+    "ca": [
+     " on es",
+     "adreca",
+     "ubicacio",
+     "albayzin"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "albayzin"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "albayzin"
+    ]
+   },
+   "a": {
+    "es": "Está en Cuesta de Santa Inés, 9, 18010 Granada, en el casco histórico del Albaicín, declarado Patrimonio de la Unesco.",
+    "ca": "És a Cuesta de Santa Inés, 9, 18010 Granada, al nucli històric de l'Albaicín, declarat Patrimoni de la Unesco.",
+    "en": "It is at Cuesta de Santa Inés, 9, 18010 Granada, in the historic Albaicín quarter, a UNESCO World Heritage Site.",
+    "fr": "Il se trouve Cuesta de Santa Inés, 9, 18010 Grenade, dans le quartier historique de l'Albaicín, classé au patrimoine de l'Unesco."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/contactos/",
+     "quote": "Cuesta de Santa Inés, 9 18010 Granada"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/situacion/",
+     "quote": "El Hotel Palacio de Santa Inés está situado en el casco histórico del Barrio del Albaicín, declarado Patrimonio de la Unesco."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "coche",
+   "keys": {
+    "es": [
+     "coche",
+     "aparcar",
+     "parking",
+     "taxi",
+     "vehiculo"
+    ],
+    "ca": [
+     "cotxe",
+     "aparcar",
+     "parquing",
+     "taxi",
+     "vehicle"
+    ],
+    "en": [
+     "car",
+     "parking",
+     "taxi",
+     "drive"
+    ],
+    "fr": [
+     "voiture",
+     "parking",
+     "taxi",
+     "garer"
+    ]
+   },
+   "a": {
+    "es": "El acceso en coche está restringido. El hotel aconseja aparcar en uno de sus parkings concertados y llegar en taxi (regular, no Uber ni VTC): si pagas el parking en el hotel y traes la factura, te descuentan el taxi de llegada; el de vuelta no.",
+    "ca": "L'accés en cotxe està restringit. L'hotel aconsella aparcar en un dels seus pàrquings concertats i arribar en taxi (regular, no Uber ni VTC): si pagues el pàrquing a l'hotel i portes la factura, et descompten el taxi d'arribada; el de tornada no.",
+    "en": "Car access is restricted. The hotel advises parking at one of its partner car parks and arriving by regular taxi (not Uber or similar): if you pay the car park at the hotel and bring the receipt, the arrival taxi is deducted; the return one is not.",
+    "fr": "L'accès en voiture est restreint. L'hôtel conseille de se garer dans l'un de ses parkings partenaires et de venir en taxi classique (pas Uber ni VTC) : si vous payez le parking à l'hôtel et apportez la facture, le taxi d'arrivée est déduit ; pas celui du retour."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/situacion/",
+     "quote": "El acceso en coche está restringido y es complicado conducir por los alrededores."
+    },
+    {
+     "url": "https://www.palaciosantaines.es/situacion/",
+     "quote": "taxi regular y no Uber u otros servicios de transporte con conductor"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/situacion/",
+     "quote": "Trayendo la factura del taxi se la descontaremos del importe del parking que pagara en el hotel."
+    },
+    {
+     "url": "https://www.palaciosantaines.es/situacion/",
+     "quote": "El taxi de vuelta no se descuenta."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "buffet",
+     "gluten",
+     "lactosa"
+    ],
+    "ca": [
+     "esmorzar",
+     "bufet",
+     "gluten",
+     "lactosa"
+    ],
+    "en": [
+     "breakfast",
+     "buffet",
+     "gluten",
+     "lactose"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner",
+     "buffet",
+     "gluten",
+     "lactose"
+    ]
+   },
+   "a": {
+    "es": "Sí, desayuno buffet; bajo petición hay alimentos sin gluten y leche sin lactosa.",
+    "ca": "Sí, esmorzar bufet; sota petició hi ha aliments sense gluten i llet sense lactosa.",
+    "en": "Yes, buffet breakfast; gluten-free food and lactose-free milk on request.",
+    "fr": "Oui, petit-déjeuner buffet ; produits sans gluten et lait sans lactose sur demande."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/",
+     "quote": "Comienza el día con un desayuno nutritivo. Bajo petición, alimentos sin gluten y leche sin lactosa."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     "cat",
+     "animal"
+    ],
+    "fr": [
+     "animal",
+     "animaux",
+     "chien",
+     "chat"
+    ]
+   },
+   "a": {
+    "es": "Sí, se admiten perros y gatos tranquilos.",
+    "ca": "Sí, s'admeten gossos i gats tranquils.",
+    "en": "Yes, calm dogs and cats are allowed.",
+    "fr": "Oui, les chiens et chats calmes sont admis."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/servicios/",
+     "quote": "Se admiten perros y gatos tranquilos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "ca": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "en": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "fr": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay conexión wifi a internet en las instalaciones, gratis al reservar en su web.",
+    "ca": "Sí, hi ha connexió wifi a internet a les instal·lacions, gratis en reservar al seu web.",
+    "en": "Yes, there is wifi throughout, free when booking on its website.",
+    "fr": "Oui, le wifi est disponible dans l'établissement, gratuit en réservant sur son site."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/",
+     "quote": "Disfruta de la Conexión Wi-fi a internet en nuestras instalaciones."
+    },
+    {
+     "url": "https://www.palaciosantaines.es/",
+     "quote": "Ventajas exclusivas Taxi gratis desde el aparcamiento concertado hasta el hotel Wi-Fi gratis"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "eventos",
+   "keys": {
+    "es": [
+     "evento",
+     "reunion",
+     "salon",
+     "congreso",
+     "empresa"
+    ],
+    "ca": [
+     "esdeveniment",
+     "reunio",
+     "salo",
+     "empresa"
+    ],
+    "en": [
+     "event",
+     "meeting",
+     "conference"
+    ],
+    "fr": [
+     "evenement",
+     "reunion",
+     "salle",
+     "conference"
+    ]
+   },
+   "a": {
+    "es": "Sí, tiene salón de eventos con wifi de alta velocidad, proyector y pantalla, papelógrafo y servicio opcional de coffee break.",
+    "ca": "Sí, té saló d'esdeveniments amb wifi d'alta velocitat, projector i pantalla, paperògraf i servei opcional de coffee break.",
+    "en": "Yes, there is an events room with high-speed wifi, projector and screen, flip chart and an optional coffee break service.",
+    "fr": "Oui, il y a une salle d'événements avec wifi haut débit, projecteur et écran, paperboard et service de pause-café en option."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/eventos-y-reuniones/",
+     "quote": "nuestro salón de eventos ofrece un escenario excepcional para encuentros empresariales"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/eventos-y-reuniones/",
+     "quote": "proyector y pantalla listos para su uso"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/eventos-y-reuniones/",
+     "quote": "servicio premium opcional de Coffe break"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "construy",
+     "siglo",
+     "antiguo",
+     "edificio"
+    ],
+    "ca": [
+     "historia",
+     "constru",
+     "segle",
+     "edifici"
+    ],
+    "en": [
+     "history",
+     "built",
+     "century",
+     "building"
+    ],
+    "fr": [
+     "histoire",
+     "construit",
+     "siecle",
+     "batiment"
+    ]
+   },
+   "a": {
+    "es": "Lo forman dos pequeños edificios mudéjares del primer tercio del siglo XVI: la Casa del Padre Eterno, rehabilitada en 1995, y el Lavadero de Santa Inés, incorporado en 2001.",
+    "ca": "El formen dos petits edificis mudèjars del primer terç del segle XVI: la Casa del Padre Eterno, rehabilitada el 1995, i el Lavadero de Santa Inés, incorporat el 2001.",
+    "en": "It is made up of two small Mudéjar buildings from the first third of the sixteenth century: the Casa del Padre Eterno, restored in 1995, and the Lavadero de Santa Inés, added in 2001.",
+    "fr": "Il est formé de deux petits bâtiments mudéjars du premier tiers du XVIe siècle : la Casa del Padre Eterno, réhabilitée en 1995, et le Lavadero de Santa Inés, ajouté en 2001."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/",
+     "quote": "está formado por dos pequeños edificios mudéjares construidos en el primer tercio del Siglo XVI"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/",
+     "quote": "cuya rehabilitación terminó en 1995"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/",
+     "quote": "ampliado en el año 2001 con la rehabilitación del edificio colindante del Lavadero de Santa Inés"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 958 22 23 62 o escribir a reservas@palaciosantaines.es. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 958 22 23 62 o escriure a reservas@palaciosantaines.es. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its booking engine (Book button), call +34 958 22 23 62 or email reservas@palaciosantaines.es. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 958 22 23 62 ou écrire à reservas@palaciosantaines.es. Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/contactos/",
+     "quote": "+34 958 22 23 62"
+    },
+    {
+     "url": "https://www.palaciosantaines.es/contactos/",
+     "quote": "reservas@palaciosantaines.es"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "empresa"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "empresa"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif",
+     "company"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "societe"
+    ]
+   },
+   "a": {
+    "es": "Según su aviso legal, el titular es INSTITUTO ANDALUZ DE OCIO Y HOSTELERIA, S.L. (nombre comercial Hotel Palacio de Santa Inés), CIF B18641563.",
+    "ca": "Segons el seu avís legal, el titular és INSTITUTO ANDALUZ DE OCIO Y HOSTELERIA, S.L. (nom comercial Hotel Palacio de Santa Inés), CIF B18641563.",
+    "en": "According to its legal notice, the owner is INSTITUTO ANDALUZ DE OCIO Y HOSTELERIA, S.L. (trade name Hotel Palacio de Santa Inés), CIF B18641563.",
+    "fr": "Selon ses mentions légales, le titulaire est INSTITUTO ANDALUZ DE OCIO Y HOSTELERIA, S.L. (nom commercial Hotel Palacio de Santa Inés), CIF B18641563."
+   },
+   "sources": [
+    {
+     "url": "https://www.palaciosantaines.es/aviso-legal/",
+     "quote": "INSTITUTO ANDALUZ DE OCIO Y HOSTELERIA, S.L. Nombre comercial: Hotel Palacio de Santa Inés CIF: B18641563"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
