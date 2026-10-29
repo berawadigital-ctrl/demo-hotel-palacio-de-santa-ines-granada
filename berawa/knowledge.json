@@ -546,15 +546,13 @@
      "titular",
      "propietario",
      "razon social",
-     "cif",
-     "empresa"
+     "cif"
     ],
     "ca": [
      "titular",
      "propietari",
      "rao social",
-     "cif",
-     "empresa"
+     "cif"
     ],
     "en": [
      "owner",
